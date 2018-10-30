@@ -1,0 +1,7 @@
+microservicecloud-eureka-7001、microservicecloud-eureka-7002、microservicecloud-eureka-7003是三个eureka service（三个夫妇注册中心）
+microservicecloud-provider-dept-8001 是服务提供者
+microservicecloud-consumer-dept-80是服务消费者
+
+
+启动 microservicecloud-eureka-7001、microservicecloud-eureka-7002、microservicecloud-eureka-7003
+然后在启动microservicecloud-consumer-dept-80、microservicecloud-provider-dept-8001 、
