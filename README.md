@@ -33,5 +33,6 @@ INSERT INTO `dept` VALUES ('5', '运维部', 'clouddb01');<br>
 	3.最后启动服务消费者：microservicecloud-consumer-dept-80<br>
 	其中microservicecloud为所有服模块的父工程，microservicecloud-api是公共模块<br>
 <br>
-## 结果呈现：访问http://localhost/comsumer/dept/list
-eureka服务注册中心：http://eureka7001.com:7001、http://eureka7002.com:7002、http://eureka7003.com:7003
+## 结果呈现：
+	访问http://localhost/comsumer/dept/list
+	eureka服务注册中心：http://eureka7001.com:7001、http://eureka7002.com:7002、http://eureka7003.com:7003
