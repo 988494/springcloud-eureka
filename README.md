@@ -8,7 +8,7 @@
 
 
 ## 数据库脚本：<br>
-clouddb01:<br>
+```clouddb01```:<br>
 DROP TABLE IF EXISTS `dept`;<br>
 CREATE TABLE `dept` (<br>
   `deptno` bigint(20) NOT NULL AUTO_INCREMENT,<br>
